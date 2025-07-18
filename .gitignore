@@ -1,0 +1,22 @@
+# Bytecode
+__pycache__/
+*.py[cod]
+
+# Banco de dados SQLite
+*.db
+
+# Ambiente virtual
+venv/
+.env/
+
+# Arquivos temporários do sistema
+*.log
+*.swp
+.DS_Store
+
+# VSCode settings (opcional)
+.vscode/
+
+# Pasta do projeto
+bb84_api/__pycache__/
+bb84_api/routers/__pycache__/
